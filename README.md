@@ -46,5 +46,5 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
