@@ -46,9 +46,10 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&layout=compact&title_color=246bced&text_color=ffffff&bg_color=000000&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=000000&hide_border=true)
 
 # Discord Profile
 
 ![Discord](https://discord.c99.nl/widget/theme-1/360881334647914506.png)
+![Discord Banner 2](https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2)
