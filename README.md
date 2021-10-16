@@ -103,12 +103,12 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 ### Sígueme:
 
-[<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%2300fef4&height=32" />][website]
-[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
-[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
-[<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:patreon.svg?color=%2300fef4&height=32" />][patreon]
-[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
+[<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/emojione:globe-showing-europe-africa.svg?&height=32" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?&height=32" />][twitter]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?&height=32" />][discord]
+[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
+[<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
+[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=orange&height=32" />][instagram]
 
 <br /><br />
 
