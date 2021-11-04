@@ -103,7 +103,7 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 [patreon]: https://www.patreon.com/espcustoms
 [instagram]: https://www.instagram.com/srgobi_oficial/
 
-### Sígueme:
+### Follow me:
 
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/noto-v1:robot.svg?&height=32" />][bot]
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/emojione:globe-showing-europe-africa.svg?&height=32" />][website]
