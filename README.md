@@ -104,7 +104,7 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 ### Sígueme:
 
-[<img align="left" alt="Website" width="32px" src="https://api.iconify.design/fluent:bot-20-filled.svg?color=%235865f2&height=32" />][bot]
+[<img align="left" alt="Website" width="32px" src="https://api.iconify.design/noto-v1:robot.svg?&height=32" />][bot]
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/emojione:globe-showing-europe-africa.svg?&height=32" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?&height=32" />][twitter]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?&height=32" />][discord]
