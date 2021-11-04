@@ -107,9 +107,9 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/noto-v1:robot.svg?&height=32" />][bot]
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/emojione:globe-showing-europe-africa.svg?&height=32" />][website]
-[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg?&height=32" />][youtube]
+[<img align="left" alt="Youtube" width="36px" src="https://api.iconify.design/logos:youtube-icon.svg?&height=36" />][youtube]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?&height=32" />][twitter]
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?&height=32" />][discord]
+[<img align="left" alt="Discord" width="36px" src="https://api.iconify.design/logos:discord-icon.svg?&height=36" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=orange&height=32" />][instagram]
