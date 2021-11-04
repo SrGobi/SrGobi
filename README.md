@@ -96,6 +96,7 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 [bot]: https://espcustoms.xyz
 [website]: https://srgobi.com
+[youtube]: https://youtube.com/c/SrGobi
 [twitter]: https://twitter.com/SrgobiY
 [discord]: https://discord.gg/cqrN3Eg
 [twitch]: https://www.twitch.tv/srgobiy
@@ -106,6 +107,7 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/noto-v1:robot.svg?&height=32" />][bot]
 [<img align="left" alt="Website" width="32px" src="https://api.iconify.design/emojione:globe-showing-europe-africa.svg?&height=32" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg?&height=32" />][youtube]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg?&height=32" />][twitter]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?&height=32" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
