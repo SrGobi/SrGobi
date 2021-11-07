@@ -112,7 +112,7 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 [<img align="left" alt="Discord" width="36px" src="https://api.iconify.design/logos:discord-icon.svg?&height=36" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
-[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=orange&height=32" />][instagram]
+[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=white&height=32" />][instagram]
 
 <br /><br />
 
