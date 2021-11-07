@@ -117,9 +117,9 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 <br /><br />
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true)
+ | Name   | Progress |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true) |
 
 # Discord Profile
 
