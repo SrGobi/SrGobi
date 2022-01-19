@@ -33,14 +33,22 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-    <a href="https://www.w3schools.com/scss/" target="_blank">
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23E34F26.svg?logo=scss3&logoColor=white">
+    <a href="https://www.w3schools.com/sass/" target="_blank">
+    <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
+
+### 👉 Framework
+<p align="left">
+  &emsp;
+    <a href="https://www.angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+  &emsp;
+    <a href="https://nodejs.org"><img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
+ </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
