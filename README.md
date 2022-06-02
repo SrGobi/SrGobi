@@ -1,4 +1,4 @@
-## Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <br>
+## Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br>
 Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com) <div>![](https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social) ![](https://img.shields.io/twitter/follow/srgobiy?style=social) [![GitHub SrGobi](https://img.shields.io/github/followers/SrGobi?label=follow&style=social)](https://github.com/SrGobi) ![](https://komarev.com/ghpvc/?username=SrGobi&color=green)</div>
 
 ### 👉 Programming languages
@@ -124,9 +124,11 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 
 <br /><br />
 
----
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true) | ![SrGobi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false) |
-| ------------- | --------------- | ----------------------- |
+<p align="center">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+        <img alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+<p>
 
 # Discord Profile
 
