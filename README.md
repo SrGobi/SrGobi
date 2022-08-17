@@ -1,5 +1,9 @@
-## Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br>
-Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com) <div>![](https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social) ![](https://img.shields.io/twitter/follow/srgobiy?style=social) [![GitHub SrGobi](https://img.shields.io/github/followers/SrGobi?label=follow&style=social)](https://github.com/SrGobi) ![](https://komarev.com/ghpvc/?username=SrGobi&color=green)</div>
+## 👋 Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br>
+<p align="center"> 
+<img src="https://i.imgur.com/PLLdAVH.png">
+</p>
+
+- 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz) <div>![](https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social) ![](https://img.shields.io/twitter/follow/srgobiy?style=social) [![GitHub SrGobi](https://img.shields.io/github/followers/SrGobi?label=follow&style=social)](https://github.com/SrGobi) ![](https://komarev.com/ghpvc/?username=SrGobi&color=green)</div>
 
 ### 👉 Programming languages
 
@@ -120,15 +124,17 @@ Actualmente estoy trabajando en [Esp Customs](https://esp-customs.herokuapp.com)
 [<img align="left" alt="Discord" width="36px" src="https://api.iconify.design/logos:discord-icon.svg?&height=36" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
-[<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=white&height=32" />][instagram]
+[<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br /><br />
 
 <p align="center">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-        <img alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-<p>
+<img align="center alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+<img align="center alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+<img align="center alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+<img align="center" alt="SrGobi's wakatime stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgobi&theme=radical" />
+<img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical" />
+</p>
 
 # Discord Profile
 
