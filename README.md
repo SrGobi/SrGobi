@@ -1,10 +1,14 @@
-## 👋 Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br>
+# <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"> Hola, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://mars-images.imgix.net/ezgif.com-gif-maker%20(1).gif?auto=compress&w=600&fit=max" width="46" height="39" alt="Wave"><br>
 <p align="center"> 
-<img src="https://i.imgur.com/PLLdAVH.png">
+<img align="center" src="https://i.imgur.com/PLLdAVH.png">
+</br>
+<img align="center" src="https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social">
+<img align="center" src="https://img.shields.io/twitter/follow/srgobiy?style=social">
+<img align="center" alt="GitHub SrGobi" src="https://img.shields.io/github/followers/SrGobi?label=follow&style=social">
+<img align="center" src="https://komarev.com/ghpvc/?username=SrGobi&color=green">
 </p>
 
-- 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz) <div>![](https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social) ![](https://img.shields.io/twitter/follow/srgobiy?style=social) [![GitHub SrGobi](https://img.shields.io/github/followers/SrGobi?label=follow&style=social)](https://github.com/SrGobi) ![](https://komarev.com/ghpvc/?username=SrGobi&color=green)</div>
-
+#### 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz)
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -27,6 +31,7 @@
 </p>
 
 ### 👉 Frontend Development
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -47,14 +52,16 @@
 </p>
 
 ### 👉 Framework
+
 <p align="left">
   &emsp;
     <a href="https://www.angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
   &emsp;
     <a href="https://nodejs.org"><img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
- </p>
-
+</p>
+ 
 ### 👉 Databases & Cloud Hosting
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"></a>
@@ -62,13 +69,12 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
- </p>
-  
+</p>
+ 
 ### 👉Graphic Designing
+
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
@@ -85,7 +91,7 @@
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
-
+ 
  ### 👉 Software & Tools
  
 <p>
@@ -126,7 +132,7 @@
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
 [<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
-<br /><br />
+<br />
 
 <p align="center">
 <img align="center alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
@@ -135,8 +141,7 @@
 <img align="center" alt="SrGobi's wakatime stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgobi&theme=radical" />
 <img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical" />
 </p>
-
-# Discord Profile
-
-![Discord](https://discord.c99.nl/widget/theme-1/360881334647914506.png)
-![Discord Banner 2](https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2)
+<p align="center">
+<img align="center" src="https://discord.c99.nl/widget/theme-1/360881334647914506.png">
+<img align="center" src="https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2">     
+</p>
