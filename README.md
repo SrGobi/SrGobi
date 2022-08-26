@@ -136,9 +136,9 @@
 <br />
 
 <p align="center">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-<img class="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-<img alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+<img align="right" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
 <img align="center" alt="SrGobi's wakatime stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgobi&theme=radical" />
 <img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical" />
 </p>
