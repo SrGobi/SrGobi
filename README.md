@@ -161,14 +161,11 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/SrGobi/">
-    <img align="left" width="35%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-  </a>
   <a href="https://srgobi.com/">
-    <img align="left" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+    <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
   <a href="https://discord.com/users/360881334647914506">
-    <img align="right" width="45%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
+    <img align="left" width="45%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
   </a>
-  <img align="left" src="http://invidget.switchblade.xyz/cqrN3Eg?language=es">     
+  <img align="right" src="http://invidget.switchblade.xyz/cqrN3Eg?language=es">     
 </p>
