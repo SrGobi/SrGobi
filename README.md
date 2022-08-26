@@ -1,11 +1,19 @@
 # <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"> Hola, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://mars-images.imgix.net/ezgif.com-gif-maker%20(1).gif?auto=compress&w=600&fit=max" width="46" height="39" alt="Wave"><br>
 <p align="center"> 
-<img align="center" src="https://i.imgur.com/PLLdAVH.png">
-<br />
-<img align="center" src="https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social">
-<img align="center" src="https://img.shields.io/twitter/follow/srgobiy?style=social">
-<img align="center" alt="GitHub SrGobi" src="https://img.shields.io/github/followers/SrGobi?label=follow&style=social">
-<img align="center" src="https://komarev.com/ghpvc/?username=SrGobi&color=green">
+  <img align="center" src="https://i.imgur.com/PLLdAVH.png">
+  <br />
+  <a href="https://youtube.com/c/SrGobi">
+    <img align="center" src="https://img.shields.io/youtube/channel/views/UC-ZByejytI9qMtYVMeD22hw?style=social">
+  <a/>
+  <a href="https://twitter.com/SrgobiY">
+    <img align="center" src="https://img.shields.io/twitter/follow/srgobiy?style=social">
+  <a/>
+  <a href="https://github.com/SrGobi/">
+    <img align="center" alt="GitHub SrGobi" src="https://img.shields.io/github/followers/SrGobi?label=follow&style=social">
+  <a/>
+  <a href="https://github.com/SrGobi/">
+    <img align="center" src="https://komarev.com/ghpvc/?username=SrGobi&color=green">
+  <a/>
 </p>
 
 #### 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz)
@@ -110,8 +118,6 @@
   &emsp;
 </p>
 
-<br />
-
 [bot]: https://espcustoms.xyz
 [website]: https://srgobi.com
 [youtube]: https://youtube.com/c/SrGobi
@@ -120,6 +126,7 @@
 [twitch]: https://www.twitch.tv/srgobiy
 [patreon]: https://www.patreon.com/espcustoms
 [instagram]: https://www.instagram.com/srgobi_oficial/
+<hr />
 
 ### Follow me:
 
@@ -131,21 +138,29 @@
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/logos:twitch.svg?&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/logos:patreon.svg?&height=32" />][patreon]
 [<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-
 <br />
 <br />
-
+<hr />
 <p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-<br />
-<br />
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-<img align="right" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-<img align="center" alt="SrGobi's wakatime stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgobi&theme=radical" />
-<img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical" />
-</p>
-
-<p align="center">
-<img align="center" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
-<img align="center" src="http://invidget.switchblade.xyz/cqrN3Eg?language=es">     
+  <a href="https://srgobi.com/">
+    <img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical&&margin-w=15&column=-1" />
+  </a>
+  <br />
+  <br />
+  <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+  <br />
+  <br />
+  <a href="https://github.com/SrGobi/">
+    <img align="left" width="35%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGobi&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="https://srgobi.com/">
+    <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+  </a>
+  <a href="https://srgobi.com/">
+    <img align="left" width="47%" alt="SrGobi's wakatime stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgobi&theme=radical" />
+  </a>
+  <a href="https://discord.com/users/360881334647914506">
+    <img align="right" width="45%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
+  </a>
+  <img align="left" src="http://invidget.switchblade.xyz/cqrN3Eg?language=es">     
 </p>
