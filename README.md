@@ -165,7 +165,7 @@
     <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
   <a href="https://discord.com/users/360881334647914506">
-    <img align="left" width="45%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
+    <img align="left" width="40%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
   </a>
   <img align="right" src="http://invidget.switchblade.xyz/cqrN3Eg?language=es">     
 </p>
