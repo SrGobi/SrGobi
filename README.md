@@ -144,9 +144,6 @@
 <hr />
 
 <p align="center">
-  <a href="https://srgobi.com/">
-    <img align="center" alt="SrGobi's wakatime stats" src="https://github-profile-trophy.vercel.app/?username=srgobi&theme=radical&&margin-w=15&column=-1" />
-  </a>
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
     <img align="left" width="45%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-left.svg">
