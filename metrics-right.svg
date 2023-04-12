@@ -12,13 +12,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 8 commits)</small>
+                    <small class="h-details">(computed from last 24 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 221.4 characters per line of code written</li>
-                        <li>Mostly pushes code around 03:00</li>
+                        <li>Has approximately 169.1 characters per line of code written</li>
+                        <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
@@ -29,7 +29,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             03
                         </div>
                         <div class="entry">
@@ -43,13 +43,13 @@
                             05
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">16</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             06
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -114,7 +114,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                     </div>
@@ -125,12 +125,12 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -139,7 +139,7 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
+                                <span class="value">22</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
@@ -188,13 +188,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">assets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#478cb7a</div>
-                                        <div class="message">Upgrade package</div>
+                                        <div class="sha">#85f5e18</div>
+                                        <div class="message">Add files via upload</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Apr 2023, 03:48:02</div>
+                                <div class="timestamp">12 Apr 2023, 06:44:34</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -205,17 +205,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SrGobi/emoji-parser</span>
+                                        <span class="repo">SrGobi/canvacard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">assets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c7069ec</div>
-                                        <div class="message">Mayus</div>
+                                        <div class="sha">#302d082</div>
+                                        <div class="message">Delete .npmignore</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Apr 2023, 03:44:57</div>
+                                <div class="timestamp">12 Apr 2023, 06:35:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -226,17 +226,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SrGobi/canvacard-assets</span>
+                                        <span class="repo">SrGobi/canvacard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">assets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#427c492</div>
-                                        <div class="message">Mayus</div>
+                                        <div class="sha">#41f6227</div>
+                                        <div class="message">Delete LICENSE</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Apr 2023, 03:43:42</div>
+                                <div class="timestamp">12 Apr 2023, 06:35:15</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -247,17 +247,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SrGobi/emoji-parser</span>
+                                        <span class="repo">SrGobi/canvacard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">assets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc1003b</div>
-                                        <div class="message">1.0.2</div>
+                                        <div class="sha">#eeee0f8</div>
+                                        <div class="message">Delete index.js</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Apr 2023, 03:39:35</div>
+                                <div class="timestamp">12 Apr 2023, 06:35:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -268,17 +268,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SrGobi/canvacard-assets</span>
+                                        <span class="repo">SrGobi/canvacard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">assets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59773c5</div>
-                                        <div class="message">1.0.2</div>
+                                        <div class="sha">#b04d4ba</div>
+                                        <div class="message">Delete tsconfig.json</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Apr 2023, 03:39:32</div>
+                                <div class="timestamp">12 Apr 2023, 06:35:02</div>
                             </section>
                         </div>
                     </section>
