@@ -1,0 +1,25 @@
+name: Publish new version
+
+on:
+  workflow_dispatch:
+    
+  schedule:
+    - cron: "0 7 * * *"
+
+  repository_dispatch:
+    types:
+      - webhook
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - run: |
+        date +%s > lastUpdate
+        git config user.name srgobi
+        git config user.email alejandro@espcustoms.xyz
+        git add lastUpdate
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update blog with latest"
+        git push origin master
