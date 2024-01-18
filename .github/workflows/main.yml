@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v4
     - run: |
         date +%s > lastUpdate
-        git config user.name srgobi
+        git config user.name SrGobi
         git config user.email alejandro@espcustoms.xyz
         git add lastUpdate
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update blog with latest"
