@@ -43,6 +43,8 @@
   <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
   &emsp;
   <a href="https://tailwindui.com/" target="_blank"> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/></a>
+  &emsp;
+  <a href="https://vitejs.dev/" target="_blank"> <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE.svg?style=flat&logo=vite&logoColor=FFD62E"/></a>
 </p>
 
 ### 👉 Framework
@@ -54,6 +56,8 @@
    <a href="https://astro.build"><img alt="Astro Badge" src="https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=white"></a>
   &emsp;
   <a href="https://react.com"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank"> <img alt="Vue" src="https://img.shields.io/badge/Vue%20js-35495E.svg?style=flat&logo=vuedotjs&logoColor=4FC08D"/></a>
   &emsp;
   <a href="https://nodejs.org"><img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
 </p>
