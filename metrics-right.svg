@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1092" class="">
     <defs>
         <style/>
     </defs>
@@ -12,12 +12,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 37 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.8 characters per line of code written</li>
+                        <li>Has approximately 39.3 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -48,8 +48,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -104,8 +104,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -151,6 +151,107 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">SrGobi/canvacard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5e2c1ab</div>
+                                        <div class="message">♻️ Actualizar dependencias de @napi-rs/canvas y @types/node</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42107cd</div>
+                                        <div class="message">✨ Agregar imagen de perfil en el módulo de Canvacard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5949f84</div>
+                                        <div class="message">✨ Profile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe9ba1c</div>
+                                        <div class="message">♻️ Refactorizar la generación de algunos datps del canvas y manejo de errores</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fc6b43</div>
+                                        <div class="message">✨ Otras imagenes para flags en base64</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40c8e09</div>
+                                        <div class="message">✨ Utilidades para la creacion de profile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb73f82</div>
+                                        <div class="message">♻️ Añadir manejo de errores en la API al escanear el directorio de archivos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#496f156</div>
+                                        <div class="message">✨ Añadir utilidad para abreviar números grandes en formato de juego</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f793c7</div>
+                                        <div class="message">✨ Añadir utilidades para crear un canvas y cargar imágenes de forma segura</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67eaf4b</div>
+                                        <div class="message">✨ Añadir clase APIError para manejar errores en la API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7be526</div>
+                                        <div class="message">✨ Añadir utilidad para obtener datos de usuario de la API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dfbe1b</div>
+                                        <div class="message">✨ Añadir utilidad para verificar y obtener las insignias de las flags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#816f26c</div>
+                                        <div class="message">✨ Añadir utilidad para obtener una cadena de fecha formateada o devolver la entrada tal cual</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7d63fb</div>
+                                        <div class="message">✨ Añadir utilidad para construir la ruta del archivo SVG</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#472eb63</div>
+                                        <div class="message">✨ Añadir utilidad de truncado de texto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0827cef</div>
+                                        <div class="message">✨ Añadir utilidades de validación de usuario y cadenas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a9a956</div>
+                                        <div class="message">✨ Añadir utilidades de validación de imágenes y cadenas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c445d1</div>
+                                        <div class="message">♻️ Actualización de archivos de definición de tipos para errores y utilidades</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64cf76e</div>
+                                        <div class="message">x 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9d4d83</div>
+                                        <div class="message">♻️ Actualización de assets:
+
+- Recarga de fuentes
+- Flags en png y svg para la tarjeta de perfil
+- Resto de imagenes</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Sept 2024, 10:04:16</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -226,27 +327,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">6 Sept 2024, 07:04:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SrGobi/srgobi.com</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4883e1f</div>
-                                        <div class="message">♻️ Move personal image in AboutMe component</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Aug 2024, 17:05:19</div>
                             </section>
                         </div>
                     </section>
