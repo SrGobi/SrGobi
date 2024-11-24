@@ -129,7 +129,7 @@
 <hr />
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&locale=es&include_all_commits=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=false" />
   <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
     <img align="left" width="45%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-left.svg">
   </a>
@@ -143,7 +143,7 @@
 
 <p align="center">
   <a href="https://srgobi.com/">
-    <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+    <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=es&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
   <a href="https://discord.com/users/360881334647914506">
     <img align="right" width="50%" src="https://lanyard.cnrad.dev/api/360881334647914506?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
