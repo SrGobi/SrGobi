@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="758" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1238" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -12,12 +12,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 60.6 characters per line of code written</li>
+                        <li>Has approximately 42.6 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -58,8 +58,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -104,8 +104,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -146,6 +146,164 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">SrGobi/canvacard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b47bd2c</div>
+                                        <div class="message">chore: Actualizar versión a 2.0.0 y mejorar configuración de package.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89ee8a8</div>
+                                        <div class="message">docs: Actualizar README.md con ejemplos de uso para la clase Welcomer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9cd4c1</div>
+                                        <div class="message">feat: Agregar clase Leaver para crear imágenes de abandono personalizables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25391ac</div>
+                                        <div class="message">fix: Corregir error tipográfico en la documentación de la función de conversión de tiempo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c38decf</div>
+                                        <div class="message">feat: Agregar clase Welcomer para generar imágenes de bienvenida personalizables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0564d6b</div>
+                                        <div class="message">feat: Implementar mejoras en la interfaz de usuario del módulo principal</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53129f9</div>
+                                        <div class="message">feat: Agregar nuevas funciones de validación en el módulo de formularios</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d312f4</div>
+                                        <div class="message">feat: Actualizar comentarios y traducciones en el módulo Util</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98a51cc</div>
+                                        <div class="message">feat: Actualizar configuración de JSDoc para incluir nuevas rutas y opciones de plantilla</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9e2a11</div>
+                                        <div class="message">feat: Actualizar comentarios y agregar nuevos módulos en index.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fafeac6</div>
+                                        <div class="message">feat: Eliminar archivo de configuración JSDoc</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2025, 14:53:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">SrGobi/canvacard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ecc8be2</div>
+                                        <div class="message">feat: Agregar módulo para dibujar rectángulos en el contexto de Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd90e3e</div>
+                                        <div class="message">feat: Agregar módulo para convolucionar imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67df65d</div>
+                                        <div class="message">feat: Agregar módulo para dibujar un círculo en el contexto de Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#955b2c9</div>
+                                        <div class="message">feat: Agregar módulo para abreviar números grandes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea89912</div>
+                                        <div class="message">feat: Agregar módulo para generar GIFs a partir de imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9baaaf</div>
+                                        <div class="message">feat: Agregar módulo para aplicar umbral a imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44083aa</div>
+                                        <div class="message">feat: Agregar módulo para aplicar efecto sepia a imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82b2049</div>
+                                        <div class="message">feat: Agregar módulo para invertir colores de imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c98d36a</div>
+                                        <div class="message">feat: Agregar módulo para convertir imágenes a escala de grises utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3295c</div>
+                                        <div class="message">feat: Agregar módulo para ajustar la oscuridad de imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#576cacd</div>
+                                        <div class="message">feat: Agregar módulo Convolute para aplicar filtros a imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68aaadb</div>
+                                        <div class="message">feat: Agregar módulo para ajustar el brillo de imágenes utilizando Canvas</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c30c4df</div>
+                                        <div class="message">feat: Agregar archivo index.js con la configuración inicial y carga de módulos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0392a5f</div>
+                                        <div class="message">feat: Agregar soporte para la gestión de errores en el módulo de plugins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44d8fac</div>
+                                        <div class="message">feat: Agregar módulo de plugins con definiciones y exportaciones</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80de560</div>
+                                        <div class="message">feat: Agregar clase Util con métodos de utilidad para manejo de colores y texto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7d967c</div>
+                                        <div class="message">feat: Agregar módulo de assets de Canvacord</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84866f2</div>
+                                        <div class="message">feat: Agregar configuración de JSDoc para soporte de plugins</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#908f98a</div>
+                                        <div class="message">feat: Agregar archivo de configuración JSDoc para la documentación del proyecto</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ace7c7</div>
+                                        <div class="message">Agregar archivos .gitignore y package.json para la gestión de dependencias y configuración del proyecto</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Feb 2025, 14:32:38</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -200,54 +358,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">30 Jan 2025, 09:34:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SrGobi/BDNitro</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48c2a2f</div>
-                                        <div class="message">♻️ Actualización a la versión 5.6.4: Mejora en la gestión de emojis y corrección de errores en la carga de FFmpeg.
-
-- Haz que el código de los experimentos espere a que se carguen las tiendas de experimentos antes de cambiar las cosas para que sea más confiable.
-- Corrige los emoticones de hipervínculos en línea falsos que son demasiado ambiciosos y también elimina las incrustaciones de emojis vinculados.
-- Corrige las decoraciones falsas que no funcionan si las colocas en tu biografía.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Jan 2025, 09:32:13</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SrGobi/BDNitro</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d115d3</div>
-                                        <div class="message">♻️ Actualización a la versión 5.6.3: Cómo omitir los hipervínculos con emojis en línea.
-- Añadir emotes de hiperenlace como emojis en mensajes.
-- Se hizo que el registro de cambios aparezca si actualiza manualmente.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Jan 2025, 09:26:08</div>
                             </section>
                         </div>
                     </section>
