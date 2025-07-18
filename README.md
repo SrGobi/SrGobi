@@ -16,7 +16,7 @@
   <a/>
 </p>
 
-#### 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz)
+#### 💼 &nbsp; Actualmente estoy trabajando en [Esp Customs](https://espcustoms.xyz/) , [Weasel Web](https://weaselweb.es/) , [Goblin Ajedrez](https://goblinajedrez.com/)
 ### 👉 Programming languages
 
 <p align="left"> 
