@@ -18,9 +18,10 @@
 </p>
 
 ## 💼 Current Projects
-- 🍃 **[Weasel Web](https://weaselweb.es/)** - Comprehensive Management of Feed Mills
+- 🍃 **[AgroTraz](https://www.agrotraz.com/)** - Comprehensive Management of Feed Mills
 - ♟️ **[Goblin Ajedrez](https://goblinajedrez.com/)** - Chess training platform
 - 🤖 **[Esp Customs](https://espcustoms.xyz/)** - the best bot Discord
+- 🦊 **[Weasel Web](https://weaselweb.es/)** - Web services company
 
 ### 👉 Programming languages
 
