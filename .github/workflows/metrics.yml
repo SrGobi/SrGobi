@@ -31,19 +31,20 @@ jobs:
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: srgobi
+          template: classic
           base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 30      # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-          config_timezone: America/Toronto # Set timezone
+          config_timezone: Europe/Madrid
           plugin_activity: yes
-          plugin_activity_limit: 5           # Limit to 5 events
-          plugin_activity_load: 50          # Load up to 100 recent events from API (should be higher than "limit")
-          plugin_activity_days: 60           # Keep only events from last 14 days (set to 0 for no limit)
-          plugin_activity_filter: all        # Show all events (use table above to filter events types)
-          plugin_activity_visibility: public # Only display public events
-          plugin_activity_timestamps: yes    # Display events timestamps
-          plugin_activity_skipped: repo      # Ignored repositories
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
