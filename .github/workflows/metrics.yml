@@ -86,64 +86,55 @@ jobs:
             }
 
       # ─────────────────────────────────────────────
-      # RIGHT — Activity & Habits
+      # RIGHT — Coding Habits
       # ─────────────────────────────────────────────
-      - name: 💻 Coding Activity
+      - name: 💻 Coding Habits
         uses: lowlighter/metrics@latest
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
+      
           user: srgobi
           template: classic
           base: ""
-
+      
+          # ────────────────
+          # General
+          # ────────────────
           config_timezone: Europe/Madrid
           config_display: large
           config_padding: 0, 8 + 4%
           config_animations: no
-
+      
           optimize: css, xml
-
-          # ────────────────
-          # Recent activity
-          # ────────────────
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_limit: 6
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_activity_filter: push, issue, pr, release, fork, review
-
+      
           # ────────────────
           # Coding habits
           # ────────────────
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_from: 200
+      
           plugin_habits_facts: yes
+      
           plugin_habits_charts: yes
           plugin_habits_charts_type: graph
+      
           plugin_habits_languages_limit: 6
           plugin_habits_languages_threshold: 1%
-
+      
           # ────────────────
           # Visual identity
           # ────────────────
           extras_css: |
-            :root {
-              --color-accent: #5865F2;
-              --color-accent-muted: #7C83F7;
-            }
-
             h2 {
               color: #5865F2 !important;
             }
-
+      
+            h2 svg {
+              fill: #5865F2 !important;
+            }
+      
             a {
               color: #5865F2 !important;
-            }
-
-            svg {
-              border-radius: 16px;
             }
