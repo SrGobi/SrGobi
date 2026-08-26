@@ -125,10 +125,10 @@
 </p>
 <p align="center">
   <a href="https://srgobi.com/">
-    <img align="right" width="48%" alt="" src="https://github-readme-stats-fast.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&locale=en&include_all_commits=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=false" />
+    <img align="right" width="45%" alt="" src="https://github-readme-stats-fast.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&locale=en&include_all_commits=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=false" />
   </a>
   <a href="https://srgobi.com/">
-    <img align="left" width="48%" alt="" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=en&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+    <img align="left" width="45%" alt="" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=en&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
 </p>
 <p align="center">
