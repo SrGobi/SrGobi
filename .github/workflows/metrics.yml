@@ -1,50 +1,149 @@
 name: Metrics
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 */6 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
-        name: Metric Left
+      # ─────────────────────────────────────────────
+      # LEFT — Overview
+      # ─────────────────────────────────────────────
+      - name: 📊 GitHub Overview
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_habits_charts: yes
-          plugin_notable_indepth: yes
-          plugin_notable_from: 'all'
-          plugin_isocalendar_duration: full-year
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-      - uses: lowlighter/metrics@latest
-        name: Metrics Right
-        with:
-          filename: metrics-right.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+
           user: srgobi
           template: classic
           base: ""
+
           config_timezone: Europe/Madrid
+          config_display: large
+          config_padding: 0, 8 + 4%
+          config_animations: no
+
+          optimize: css, xml
+
+          # ────────────────
+          # Commit calendar
+          # ────────────────
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ────────────────
+          # Languages
+          # ────────────────
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+          plugin_languages_details: percentage
+
+          # ────────────────
+          # Notable contributions
+          # ────────────────
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+
+          # ────────────────
+          # Issues / PRs
+          # ────────────────
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          # ────────────────
+          # Visual identity
+          # ────────────────
+          extras_css: |
+            :root {
+              --color-accent: #5865F2;
+              --color-accent-muted: #7C83F7;
+            }
+
+            h2 {
+              color: #5865F2 !important;
+            }
+
+            a {
+              color: #5865F2 !important;
+            }
+
+            svg {
+              border-radius: 16px;
+            }
+
+      # ─────────────────────────────────────────────
+      # RIGHT — Activity & Habits
+      # ─────────────────────────────────────────────
+      - name: 💻 Coding Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-right.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: srgobi
+          template: classic
+          base: ""
+
+          config_timezone: Europe/Madrid
+          config_display: large
+          config_padding: 0, 8 + 4%
+          config_animations: no
+
+          optimize: css, xml
+
+          # ────────────────
+          # Recent activity
+          # ────────────────
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 6
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_activity_filter: push, issue, pr, release, fork, review
+
+          # ────────────────
+          # Coding habits
+          # ────────────────
           plugin_habits: yes
-          plugin_habits_charts_type: classic
           plugin_habits_days: 14
-          plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_languages_limit: 6
+          plugin_habits_languages_threshold: 1%
+
+          # ────────────────
+          # Visual identity
+          # ────────────────
+          extras_css: |
+            :root {
+              --color-accent: #5865F2;
+              --color-accent-muted: #7C83F7;
+            }
+
+            h2 {
+              color: #5865F2 !important;
+            }
+
+            a {
+              color: #5865F2 !important;
+            }
+
+            svg {
+              border-radius: 16px;
+            }
