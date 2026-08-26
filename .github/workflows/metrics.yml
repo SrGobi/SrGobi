@@ -18,7 +18,7 @@ jobs:
 
     steps:
       # ─────────────────────────────────────────────
-      # LEFT — Overview
+      # Overview
       # ─────────────────────────────────────────────
       - name: 📊 GitHub Overview
         uses: lowlighter/metrics@latest
@@ -83,58 +83,4 @@ jobs:
 
             svg {
               border-radius: 16px;
-            }
-
-      # ─────────────────────────────────────────────
-      # RIGHT — Coding Habits
-      # ─────────────────────────────────────────────
-      - name: 💻 Coding Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics-right.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-      
-          user: srgobi
-          template: classic
-          base: ""
-      
-          # ────────────────
-          # General
-          # ────────────────
-          config_timezone: Europe/Madrid
-          config_display: large
-          config_padding: 0, 8 + 4%
-          config_animations: no
-      
-          optimize: css, xml
-      
-          # ────────────────
-          # Coding habits
-          # ────────────────
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-      
-          plugin_habits_facts: yes
-      
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-      
-          plugin_habits_languages_limit: 6
-          plugin_habits_languages_threshold: 1%
-      
-          # ────────────────
-          # Visual identity
-          # ────────────────
-          extras_css: |
-            h2 {
-              color: #5865F2 !important;
-            }
-      
-            h2 svg {
-              fill: #5865F2 !important;
-            }
-      
-            a {
-              color: #5865F2 !important;
             }
