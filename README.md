@@ -118,18 +118,12 @@
 <hr />
 
 <p align="center">
-  <img alt="" src="https://streak-stats.demolab.com?user=SrGobi&theme=transparent&hide_border=true&dates=7F7F7F" />
-  <img alt="" src="https://github-readme-stats-fast.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&locale=en&include_all_commits=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=false" />
+  <img align="right" alt="" src="https://streak-stats.demolab.com?user=SrGobi&theme=transparent&hide_border=true&dates=7F7F7F" />
+  <img align="left" alt="" src="https://github-readme-stats-fast.vercel.app/api?username=SrGobi&count_private=true&show_icons=true&locale=en&include_all_commits=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=false" />
   <a href="https://srgobi.com/">
-    <img align="right" width="50%" alt="" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=en&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
-    <img align="left" width="45%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-left.svg">
+    <img align="center" width="50%" alt="" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=en&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
   <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
-    <img align="right" width="45%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-right.svg">
+    <img align="center" width="100%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-left.svg">
   </a>
 </p>
