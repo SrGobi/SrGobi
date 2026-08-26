@@ -124,6 +124,6 @@
     <img align="center" width="50%" alt="" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=srgobi&layout=compact&show_icons=true&locale=en&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
   </a>
   <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
-    <img align="center" width="100%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics-left.svg">
+    <img align="center" width="100%" src="https://github.com/SrGobi/SrGobi/blob/main/metrics.svg">
   </a>
 </p>
