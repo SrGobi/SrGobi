@@ -23,7 +23,7 @@ jobs:
       - name: 📊 GitHub Overview
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics-left.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: srgobi
